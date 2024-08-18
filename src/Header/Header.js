@@ -34,9 +34,9 @@ export default function Header(){
                     <a href="/saree" className="nav-link">Saree</a>
                     <div className="dropdown-content">
                         {/* Dropdown items for Saree */}
-                        <a href="/saree1">Saree 1</a>
-                        <a href="/saree2">Saree 2</a>
-                        <a href="/saree3">Saree 3</a>
+                        <a href="/saree1">Banarasi Silk</a>
+                        <a href="/saree2">Mysore Silk</a>
+                        <a href="/saree3">Soft Silk</a>
                     </div>
                 </li>
                 <li className="nav-item dropdown">
